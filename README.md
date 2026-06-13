@@ -47,9 +47,11 @@
 
 
 ---
+## 📊 GitHub Stats
 
-## 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lavanya05-jpg&show_icons=true&theme=tokyonight)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lavanya05-jpg&layout=compact&theme=tokyonight)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge)
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
@@ -57,8 +59,17 @@
 ![Data Analysis](https://img.shields.io/badge/Data_Analysis-4285F4?style=for-the-badge)
 ![PowerPoint](https://img.shields.io/badge/PowerPoint-D24726?style=for-the-badge)
 
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=lavanya05-jpg&theme=tokyonight)
+
+
+
 ---
+## 📫 Let's Connect
 
-## 📫 Connect With Me
+💼 LinkedIn: (www.linkedin.com/in/lavanya-arya-83203a341)
 
-[LinkedIn](www.linkedin.com/in/lavanya-arya-83203a341)
+📧 Email: lavi1979arya@gmail.com
+
+
